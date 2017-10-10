@@ -74,10 +74,10 @@ Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"
 
 ## Teaching 
 
-`Winter semester` 
+`winter` 
 __Pedestrian Dynamics__ (English)
 
-`Summer semester` 
+`summer` 
 __Ingenieurinformatik__ (German)
 
 ## Supervisions:
