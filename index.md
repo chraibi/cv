@@ -8,6 +8,7 @@ title: Mohcine Chraibi's CV
 <div id="webaddress">
 <a href="m@chraibi.de">m@chraibi.de</a>
 | <a href="http://www.chraibi.de">My page</a>
+| <a href="https://github.com/chraibi">Code</a>
 </div>
 
 
@@ -25,7 +26,7 @@ Traffic engineering, parallel computing
 
 ## Education and Positions
 
-`Aug.-Oct. 2006`
+`Aug. 2006`
 __Guest Student Programme on Scientific Computing__
 
 `Nov. 2007`
@@ -37,7 +38,7 @@ __Diploma in Computer Science, Hamburg University of Technology, Hamburg__
 `May 2012`
 __Ph.D. (Dr. rer. nat.), Faculty of Physics, University of Cologne__
 
-`Dec. 2012 - Mar. 2013`
+`Dec. 2012`
 __JSPS Fellow__
 
 `Since 2008` 
@@ -72,10 +73,12 @@ Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"
   funded by Federal Ministry of Education and Research (BMBF) under 13N13266. Status: ongoing.
 
 ## Teaching 
-Lectures given in the [University of Wuppertal](https://www.asim.uni-wuppertal.de/)
 
-- Winter semester __Pedestrian Dynamics__ (English)
-- Summer semester __Ingenieurinformatik__ (German)
+`Winter semester` 
+__Pedestrian Dynamics__ (English)
+
+`Summer semester` 
+__Ingenieurinformatik__ (German)
 
 ## Supervisions:
 
