@@ -8,7 +8,7 @@ title: Mohcine Chraibi's CV
 <div id="webaddress">
 <a href="m@chraibi.de">m@chraibi.de</a>
 | <a href="http://www.chraibi.de">My page</a>
-| <a href="https://github.com/chraibi">Code</a>
+| <a href="https://github.com/chraibi">Programming</a>
 </div>
 
 
