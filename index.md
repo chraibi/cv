@@ -7,14 +7,14 @@ title: Mohcine Chraibi's CV
 
 <div id="webaddress">
 <a href="m@chraibi.de">m@chraibi.de</a>
-| <a href="http://www.chraibi.de">My page</a>
+| <a href="http://www.chraibi.de">Personal page</a>
 | <a href="https://github.com/chraibi">Programming</a>
 </div>
 
 
 ## Currently
 
-Research assistant at the Civil Security Division in [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst) (permanent position).
+Research assistant at the Civil Security Division in [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst) (_permanent position_).
 
 ## Research interests
 
@@ -103,7 +103,7 @@ Senior developer of the software [JuPedSim](http://jupedsim.org) – a framework
 
 Member of the scientific committee of [PED](http://ped2016.ustc.edu.cn/dct/page/65542) (Conference on Pedestrian Dynamics) and [TGF](https://tgf17.gwu.edu/organization/international-scientific-committee/) (Traffic and Granular Flow)
 
-Reviewer diverse journals e.g. in Physical Review E, Collective Dynamics, PLOS, Transportation Research B and C, Physica A etc.
+Reviewer in diverse journals e.g. in [Physical Review E](https://journals.aps.org/pre/), [Collective Dynamics](http://collective-dynamics.eu), [PLOS](http://journals.plos.org), Transportation Research [part B](https://www.journals.elsevier.com/transportation-research-part-b-methodological/) and [part C](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies/), [Physica A](https://www.journals.elsevier.com/physica-a-statistical-mechanics-and-its-applications/) etc.
 
 
 
