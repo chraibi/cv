@@ -91,8 +91,17 @@ __Basics of Flow Theory__ (German)
 
 ## Other activities
 
-- Organization of the conference TGF'13 in Jülich  
-- Visiting researcher in Tokyo university
+Organization of the conference TGF’13 in Jülich.
+
+Visiting scientists in Tokyo university
+
+Member of RiMEA (Guideline for Microscopic Evacuation Analysis)
+
+Senior developer of the software JuPedSim – a framework for simulation and analysis of pedestrian dynamics.
+
+Member of the scientific committee of PED (Conference on Pedestrian Dynamics) and TGF (Traffic and Granular Flow)
+
+Reviewer in Physical Review E, Collective Dynamics, PLOS, Transportation Research B and C, Physica A,
 
 
 
