@@ -103,8 +103,7 @@ Senior developer of the software [JuPedSim](http://jupedsim.org) – a framework
 
 Member of the scientific committee of [PED](http://ped2016.ustc.edu.cn/dct/page/65542) (Conference on Pedestrian Dynamics) and [TGF](https://tgf17.gwu.edu/organization/international-scientific-committee/) (Traffic and Granular Flow)
 
-Reviewer in Physical Review E, Collective Dynamics, PLOS, Transportation Research B and C, Physica A,
-
+Reviewer diverse journals e.g. in Physical Review E, Collective Dynamics, PLOS, Transportation Research B and C, Physica A etc.
 
 
 
