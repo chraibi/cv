@@ -42,7 +42,7 @@ __Ph.D. (Dr. rer. nat.), Faculty of Physics, University of Cologne__
 __JSPS Fellow__
 
 `Since 2008` 
-__Research assistant, Jülich Supercomputing Centre, Forschungszentrum Jülich__
+__Research assistant, Jülich Supercomputing Centre, Forschungszentrum Jülich__
 
 <!-- ## Awards -->
 
