@@ -70,7 +70,9 @@ Simulation and modelling in "__BaSiGo – Safety and security modules for large 
   funded by the Federal Ministry of Education and Research (BMBF) under grant number 13N12045. February 2012 till March 2015.  
   
 Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"   
-  funded by Federal Ministry of Education and Research (BMBF) under 13N13266. Status: ongoing.
+  funded by Federal Ministry of Education and Research (BMBF) under 13N13266. Status: `ongoing`.
+
+Active organizer and supervisor of PhD and master students within the project "Palestinian-German Science Bridge". funded by the Federal Ministry of Education and Research (BMBF) under grant number Status: `ongoing`.
 
 ## Teaching 
 
@@ -91,15 +93,15 @@ __Basics of Flow Theory__ (German)
 
 ## Other activities
 
-Organization of the conference TGF’13 in Jülich.
+Organization of the conference [TGF’13](http://tgf13.de) in Jülich.
 
-Visiting scientists in Tokyo university
+Visiting scientist in Tokyo university, [Nishinari's](http://www.rcast.u-tokyo.ac.jp/research/people/staff-nishinari_katsuhiro_en.html) lab
 
-Member of RiMEA (Guideline for Microscopic Evacuation Analysis)
+Member of [RiMEA](http://rimea.de) (Guideline for Microscopic Evacuation Analysis)
 
-Senior developer of the software JuPedSim – a framework for simulation and analysis of pedestrian dynamics.
+Senior developer of the software [JuPedSim](http://jupedsim.org) – a framework for simulation and analysis of pedestrian dynamics.
 
-Member of the scientific committee of PED (Conference on Pedestrian Dynamics) and TGF (Traffic and Granular Flow)
+Member of the scientific committee of [PED](http://ped2016.ustc.edu.cn/dct/page/65542) (Conference on Pedestrian Dynamics) and [TGF](https://tgf17.gwu.edu/organization/international-scientific-committee/) (Traffic and Granular Flow)
 
 Reviewer in Physical Review E, Collective Dynamics, PLOS, Transportation Research B and C, Physica A,
 
