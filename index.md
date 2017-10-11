@@ -14,7 +14,7 @@ title: Mohcine Chraibi's CV
 
 ## Currently
 
-Research assistant at the Civil Security Division in [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst).
+Research assistant at the Civil Security Division in [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst) (permanent position).
 
 ## Research interests
 
