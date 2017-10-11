@@ -14,7 +14,7 @@ title: Mohcine Chraibi's CV
 
 ## Currently
 
-Research assistant at the Civil Security Division in [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst) (_permanent position_).
+Research assistant at the Civil Security Division in [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst) 
 
 ## Research interests
 
@@ -70,9 +70,9 @@ Simulation and modelling in "__BaSiGo – Safety and security modules for large 
   funded by the Federal Ministry of Education and Research (BMBF) under grant number 13N12045. February 2012 till March 2015.  
   
 Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"   
-  funded by Federal Ministry of Education and Research (BMBF) under 13N13266. Status: `ongoing`.
+  funded by Federal Ministry of Education and Research (BMBF) under 13N13266. `ongoing`
 
-Active organizer and supervisor of PhD and master students within the project "Palestinian-German Science Bridge". funded by the Federal Ministry of Education and Research (BMBF) under grant number Status: `ongoing`.
+Active organizer and supervisor of PhD and master students within the project "Palestinian-German Science Bridge". funded by the Federal Ministry of Education and Research (BMBF). `ongoing`
 
 ## Teaching 
 
@@ -85,11 +85,13 @@ __Computer engineering__ (German)
 `2017`
 __Basics of Flow Theory__ (German)
 
-## Supervisions:
+## Supervisions
 
-- 2 Phd (ongoing)
-- more than 6 Bachelor, Master, Diploma and internships
-- 2 CSC PhD students
+2 Phd `ongoing`
+
+more than 6 Bachelor, Master, Diploma and internships
+
+4 CSC PhD students `2 ongoing`
 
 ## Other activities
 
