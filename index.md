@@ -72,7 +72,7 @@ Simulation and modelling in "__BaSiGo – Safety and security modules for large 
 Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"   
   funded by Federal Ministry of Education and Research (BMBF) under 13N13266. `ongoing`
 
-Active organizer and supervisor of PhD and master students within the project "Palestinian-German Science Bridge". funded by the Federal Ministry of Education and Research (BMBF). `ongoing`
+<!-- Active organizer and supervisor of PhD and master students within the project "Palestinian-German Science Bridge". funded by the Federal Ministry of Education and Research (BMBF). `ongoing` -->
 
 ## Teaching 
 
