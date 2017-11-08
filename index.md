@@ -6,7 +6,7 @@ title: Mohcine Chraibi's CV
 (Dr. rer. nat.)
 
 <div id="webaddress">
-<a href="m@chraibi.de">m@chraibi.de</a>
+<a href="mailto:m@chraibi.de">m@chraibi.de</a>
 | <a href="http://www.chraibi.de">Personal page</a>
 | <a href="https://github.com/chraibi">Programming</a>
 </div>
