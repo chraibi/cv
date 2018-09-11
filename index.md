@@ -14,7 +14,7 @@ title: Mohcine Chraibi's CV
 
 ## Currently
 
-Research assistant at the Civil Security Division in [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst) 
+Research assistant in Institute of Advanced Simulation (IAS7), [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst)
 
 ## Research interests
 
@@ -39,10 +39,16 @@ __Diploma in Computer Science, Hamburg University of Technology, Hamburg__
 __Ph.D. (Dr. rer. nat.), Faculty of Physics, University of Cologne__
 
 `Dec. 2012`
-__JSPS Fellow__
+__JSPS Fellow (3 months)__
 
-`Since 2008` 
+`Jul. 2018`
+__Guest researcher at Key State Laboratory of Fire Science at USTC - China (2 months)__
+
+`2008 - 2018`
 __Research assistant, Jülich Supercomputing Centre, Forschungszentrum Jülich__
+
+`Since 2018`
+__Head of the departement Mathematical modeling of Pedestrian Dynamics at IAS7__
 
 <!-- ## Awards -->
 
@@ -53,33 +59,33 @@ __Research assistant, Jülich Supercomputing Centre, Forschungszentrum Jülich__
 
 ## Publications
 
-A list is also available [online](http://www.fz-juelich.de/ias/jsc/EN/AboutUs/Staff/personalItems/chraibi_m-publications.html;nn=362224) 
+A list is also available [online](http://www.fz-juelich.de/ias/jsc/EN/AboutUs/Staff/personalItems/chraibi_m-publications.html;nn=362224)
 
 ## Research projects
 
-Principal investigator in, "__Model calibration of CrowdControl__", cooperation with Siemens AG, 2012.  
+Principal investigator in, "__Model calibration of CrowdControl__", cooperation with Siemens AG, 2012.
 
-Principal investigator in, "__PEDFLOW Code Validation__", cooperation with SL–Rasch GmbH Special Lightweight & Structures, 2013.  
+Principal investigator in, "__PEDFLOW Code Validation__", cooperation with SL–Rasch GmbH Special Lightweight & Structures, 2013.
 
-Simulation and modelling in, "__Hermes – Investigation of an evacuation assistant for use in emergencies 
-  during large-scale public events__" funded by the Federal Ministry of Education and Research (BMBF) 
-   within the program "Research for Civil Security" in the field "Protecting and Saving Human Life" under grant number 
-   13N9952. November 2008 till December 2011,  
-   
-Simulation and modelling in "__BaSiGo – Safety and security modules for large public events__",   
-  funded by the Federal Ministry of Education and Research (BMBF) under grant number 13N12045. February 2012 till March 2015.  
-  
-Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"   
+Simulation and modelling in, "__Hermes – Investigation of an evacuation assistant for use in emergencies
+  during large-scale public events__" funded by the Federal Ministry of Education and Research (BMBF)
+   within the program "Research for Civil Security" in the field "Protecting and Saving Human Life" under grant number
+   13N9952. November 2008 till December 2011,
+
+Simulation and modelling in "__BaSiGo – Safety and security modules for large public events__",
+  funded by the Federal Ministry of Education and Research (BMBF) under grant number 13N12045. February 2012 till March 2015.
+
+Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"
   funded by Federal Ministry of Education and Research (BMBF) under 13N13266. `ongoing`
 
 <!-- Active organizer and supervisor of PhD and master students within the project "Palestinian-German Science Bridge". funded by the Federal Ministry of Education and Research (BMBF). `ongoing` -->
 
-## Teaching 
+## Teaching
 
-`2015-now` 
+`2015-now`
 __Pedestrian Dynamics__ (English)
 
-`2011-now` 
+`2011-now`
 __Computer engineering__ (German)
 
 `2017`
@@ -112,7 +118,3 @@ Reviewer in diverse journals e.g. in [Physical Review E](https://journals.aps.or
 <div id="webaddress" align="left">
 Last updated: Oct. 2017
 </div>
-
-
-
-
