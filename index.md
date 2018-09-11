@@ -41,11 +41,11 @@ __Ph.D. (Dr. rer. nat.), Faculty of Physics, University of Cologne__
 `Dec. 2012`
 __JSPS Fellow (3 months)__
 
-`Jul. 2018`
-__Guest researcher at Key State Laboratory of Fire Science at USTC - China (2 months)__
-
 `2008 - 2018`
 __Research assistant, Jülich Supercomputing Centre, Forschungszentrum Jülich__
+
+`Jul. 2018`
+__Guest researcher at Key State Laboratory of Fire Science at USTC - China (2 months)__
 
 `Since 2018`
 __Head of the departement Mathematical modeling of Pedestrian Dynamics at IAS7__
