@@ -14,7 +14,7 @@ title: Mohcine Chraibi's CV
 
 ## Currently
 
-Research assistant in Institute of Advanced Simulation (IAS7), [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/jsc/cst)
+Research assistant in Institute for Advanced Simulation (IAS-7), [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/ias-7/EN/Home/home_node.html)
 
 ## Research interests
 
