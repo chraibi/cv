@@ -59,24 +59,31 @@ __Head of the departement Mathematical modeling of Pedestrian Dynamics at IAS7__
 
 ## Publications
 
-A list is also available [online](http://www.fz-juelich.de/ias/jsc/EN/AboutUs/Staff/personalItems/chraibi_m-publications.html;nn=362224)
+A list is also available [online](http://www.fz-juelich.de/ias/ias-7/EN/AboutUs/Staff/Current/Chraibi_Mohcine/publication_node.html)
 
 ## Research projects
 
-Principal investigator in, "__Model calibration of CrowdControl__", cooperation with Siemens AG, 2012.
+[Knowledge for the world: Helmholtz to fund four innovative transfer projects](https://www.helmholtz.de/en/current_topics/press_releases/article/artikeldetail/knowledge-for-the-world-helmholtz-to-fund-four-innovative-transfer-projects/) `ongoing`
+
+
+[KaPakrit](http://www.kapakrit.de) `ongoing`
+
+Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"
+  funded by Federal Ministry of Education and Research (BMBF) under 13N13266, 2018.
+
+Simulation and modelling in "__BaSiGo – Safety and security modules for large public events__",
+  funded by the Federal Ministry of Education and Research (BMBF) under grant number 13N12045. February 2012 till March 2015.
 
 Principal investigator in, "__PEDFLOW Code Validation__", cooperation with SL–Rasch GmbH Special Lightweight & Structures, 2013.
+
+
+Principal investigator in, "__Model calibration of CrowdControl__", cooperation with Siemens AG, 2012.
 
 Simulation and modelling in, "__Hermes – Investigation of an evacuation assistant for use in emergencies
   during large-scale public events__" funded by the Federal Ministry of Education and Research (BMBF)
    within the program "Research for Civil Security" in the field "Protecting and Saving Human Life" under grant number
    13N9952. November 2008 till December 2011,
 
-Simulation and modelling in "__BaSiGo – Safety and security modules for large public events__",
-  funded by the Federal Ministry of Education and Research (BMBF) under grant number 13N12045. February 2012 till March 2015.
-
-Simulation and modelling in, "__ORPHEUS: Fire Safety in the underground__"
-  funded by Federal Ministry of Education and Research (BMBF) under 13N13266. `ongoing`
 
 <!-- Active organizer and supervisor of PhD and master students within the project "Palestinian-German Science Bridge". funded by the Federal Ministry of Education and Research (BMBF). `ongoing` -->
 
