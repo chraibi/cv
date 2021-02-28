@@ -6,7 +6,7 @@ title: Mohcine Chraibi's CV
 (Dr. rer. nat.)
 
 <div id="webaddress">
-<a href="mailto:m@chraibi.de">m@chraibi.de</a>
+<a href="mailto:m.chraibi@protonmail.com">m.chraibi@protonmail.com</a>
 | <a href="http://www.chraibi.de">Personal page</a>
 | <a href="https://github.com/chraibi">Programming</a>
 </div>
@@ -14,7 +14,7 @@ title: Mohcine Chraibi's CV
 
 ## Currently
 
-Research assistant in Institute for Advanced Simulation (IAS-7), [Forschungszentrum Jülich](http://www.fz-juelich.de/ias/ias-7/EN/Home/home_node.html)
+Head of the division ["Pedestrian Modeling"](https://www.fz-juelich.de/ias/ias-7/EN/Research/Pedestrian_Dynamics-Modeling/_node.html) at [Civil Safety Research ](http://www.fz-juelich.de/ias/ias-7/EN/Home/home_node.html)
 
 ## Research interests
 
@@ -63,8 +63,9 @@ A list is also available [online](http://www.fz-juelich.de/ias/ias-7/EN/AboutUs/
 
 ## Research projects
 
-[Knowledge for the world: Helmholtz to fund four innovative transfer projects](https://www.helmholtz.de/en/current_topics/press_releases/article/artikeldetail/knowledge-for-the-world-helmholtz-to-fund-four-innovative-transfer-projects/) `ongoing`
 
+[MADRAS](https://www.madras-crowds.eu/)
+[SISAME](https://sisame.de) `ongoing`
 
 [KaPakrit](http://www.kapakrit.de) `ongoing`
 
@@ -98,13 +99,6 @@ __Computer engineering__ (German)
 `2017`
 __Basics of Flow Theory__ (German)
 
-## Supervisions
-
-2 Phd `ongoing`
-
-more than 6 Bachelor, Master, Diploma and internships
-
-4 CSC PhD students `2 ongoing`
 
 ## Other activities
 
